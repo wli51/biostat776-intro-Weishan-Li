@@ -2,28 +2,58 @@
 title: "My Website"
 ---
 
-Hello, Website!!!
-
-# Hi, I am Weishan Li. 
-
-### I was born and raised in China. Then I came to the U.S. for my undergraduate studies and received a BS degree in Bioinforamtics from the Univeristy of California, San Diego. Finally, here I am at the Johns Hopkins University BSPH for my grauduate studies. 
-
-## Experiences
-### I spent a significant portion of undergrad years on analyzing calcium activity by mouse neurons. I wrote scripts in MATLAB for image processing (identifying positions cell bodies from a microscope FOV), calcium activity peak detection and denoising and eventually bundled them up into a tool pack with GUI. 
-
-### I learned the operation of several statistics software package in my undergraduate classes. I have experience with mRNA differentiation analysis and GWAS using python and single cell genomics with a R package.  
-
-## Research Interests 
-### I am currently interested in infectious disease modelling. Though I would say would happily engage in any Publich Health research that involves the development of new tools or methods. For that reason, I really look forward to learn coding in R in this couse as well as the development of packages in R, which, according to my knowedge, will be covered in Statistical Programming Paradigms and Workflows, a continuation of the current course, in term 2.  
+Hello, Website!!!  
 
 ---
 
-## Fun Facts about me:
+## Hi, I am Weishan Li.<br/>  
+\
+\
 
+I was born and raised in China. Then I came to the U.S. for my undergraduate studies and received a BS degree in Bioinforamtics from the Univeristy of California, San Diego. Finally, here I am at the Johns Hopkins University BSPH for my grauduate studies.   
+
+\
+\
+
+### Experiences
+I spent a significant portion of undergrad years on analyzing calcium activity by mouse neurons. I wrote scripts in MATLAB for image processing (identifying positions cell bodies from a microscope FOV), calcium activity peak detection and denoising and eventually bundled them up into a tool pack with GUI.   
+
+
+I learned the operation of several statistics software package in my undergraduate classes. I have experience with mRNA differentiation analysis and GWAS using python and single cell genomics with a R package.    
+
+\
+\
+
+### Research Interests 
+ I am currently interested in infectious disease modelling. Though I would say would happily engage in any Publich Health research that involves the development of new tools or methods. For that reason, I really look forward to learn coding in R in this couse as well as the development of packages in R, which, according to my knowedge, will be covered in Statistical Programming Paradigms and Workflows, a continuation of the current course, in term 2.    
+
+\
+\
+\
 
 ---
 
-| Syntax | Description |
-| ----------- | ----------- |
-| Header | Title |
-| Paragraph | Text |
+### Fun Facts about me:
+1. Starting my undergrad Junior year, I oversleep on the first day of every school term and consistently missed my first lectures.  
+2. According to family tradition, I am supposed to be given a name that pronounces the same as dinosaur in Chinese. I am glad that my parent did not follow that tradition.
+3. I was into building my computer systems from parts during college and got one custom loop water cooled unit running for 6 month. Eventually I gave up because it takes time to maintain the system. 
+4. To save up money for my PC building hobby, I learned to cook as soon as I entered college. 
+5. The year if 2022 is the year of my zodiac animal (tiger), but counterintuitively, according to the myths this is supposed to be my unlucky year. 
+
+\
+\
+\
+
+---
+
+### Visualization of over-work related deaths around the world
+\
+
+![Deaths and DALYs Lost due to over-work](https://ars.els-cdn.com/content/image/1-s2.0-S0160412021002208-gr4_lrg.jpg)
+[Original WHO Study Here](https://www.sciencedirect.com/science/article/pii/S0160412021002208)
+
+---
+
+
+
+
