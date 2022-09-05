@@ -1,0 +1,8 @@
+name: "Project0-website"
+navbar:
+  title: "Statistical Computation Project 0 Site"
+  left: 
+    - text: "Home"
+      href: index.html
+    - text: "About"
+      href: about.html

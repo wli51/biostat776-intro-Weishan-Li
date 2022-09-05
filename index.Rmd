@@ -1,0 +1,29 @@
+---
+title: "My Website"
+---
+
+Hello, Website!!!
+
+# Hi, I am Weishan Li. 
+
+### I was born and raised in China. Then I came to the U.S. for my undergraduate studies and received a BS degree in Bioinforamtics from the Univeristy of California, San Diego. Finally, here I am at the Johns Hopkins University BSPH for my grauduate studies. 
+
+## Experiences
+### I spent a significant portion of undergrad years on analyzing calcium activity by mouse neurons. I wrote scripts in MATLAB for image processing (identifying positions cell bodies from a microscope FOV), calcium activity peak detection and denoising and eventually bundled them up into a tool pack with GUI. 
+
+### I learned the operation of several statistics software package in my undergraduate classes. I have experience with mRNA differentiation analysis and GWAS using python and single cell genomics with a R package.  
+
+## Research Interests 
+### I am currently interested in infectious disease modelling. Though I would say would happily engage in any Publich Health research that involves the development of new tools or methods. For that reason, I really look forward to learn coding in R in this couse as well as the development of packages in R, which, according to my knowedge, will be covered in Statistical Programming Paradigms and Workflows, a continuation of the current course, in term 2.  
+
+---
+
+## Fun Facts about me:
+
+
+---
+
+| Syntax | Description |
+| ----------- | ----------- |
+| Header | Title |
+| Paragraph | Text |
